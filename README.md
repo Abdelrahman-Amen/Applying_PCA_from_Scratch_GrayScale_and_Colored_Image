@@ -1,0 +1,1 @@
+# Applying_PCA_from_Scratch_GrayScale_and_Colored_Image
